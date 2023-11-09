@@ -1,55 +1,71 @@
-# Planner
+# Personal Habits
 
-- This planner is valid up to the completion of the TAP (Technology Analyst Program)
+## Spiritual and Personal Habits (with timings)
 
-## Plan
-
-- `4:30` - Strict Wake up
-- `4:35 to 6:30` - Chanting of Hare Krishna Mahamantra (once the sleep cycle is scheduled properly, we will start with the most auspicious activity, that is Attending Mangala Arotik)
-- `7:00 to 8:30` - Gym + Lecture hearing
-- `8:50 to 9:05` - Reciting one of the Bhajans
-    1. [Sri Narasimha Kavacha Mantra](https://iskcondesiretree.com/page/sri-narasimha-kavacha-mantra)
+- [5:00 - 7:30] Chanting of Hare Krishna Mahamantra
+- [7:45 - 9:30] Workout (Plan mentioned below)
+- [9:30 - 10:00] Fresh and Up; Doing all the Aartis; Completing the breakfast
+	1. [Sri Narasimha Kavacha Mantra](https://iskcondesiretree.com/page/sri-narasimha-kavacha-mantra)
     2. [Brahma Samhita](https://iskcondesiretree.com/page/brahma-samhita)
     3. [Sri Saci-Sutashtakam](https://iskcondesiretree.com/page/sri-sacisuta-astakam)
-- `9:10 to 9:30` - Breakfast and getting stuffs ready for the office
-- `10:00 to 18:00` - Office related or any other pending work
-- `18:30 to 19:30` - Reading Srila Prabhupada books
-- `19:45 to 21:30` - Coding / Problem Solving
-- `22:00 - 22:30` - Reading Prabhupada Lilamrita
-- `22:30` - Off to bed and sleep
+- [10:15 - 11:15] Listening to a lecture
+- [12:00 - 20:30] Office work (very religiously and diligently)
+- [20:30 - 21:00] Fresh and Up; Completing the dinner
+- [21:00 - 22:00] Reading Prabhupada books
 
-## Gym Plan
+## Workout plan
 
-- `Monday` - Push + 10 mins rope jumping
-- `Tuesday` - Cardio (1 hr) + 10 mins rope Jumping
-- `Wednesday` - Pull + 10 mins rope jumping
-- `Thursday` - Cardio (1 hr) + 10 mins rope Jumping
-- `Friday` - Legs + 10 mins rope jumping
-- `Saturday` - Cardio (1 hr) + 10 mins rope Jumping
-- `Sunday` - Full Body stretch / yoga and rest
+#### Warm up
+1. Jumping jacks
+2. Arm circles
+3. Leg swings
+4. Arm swings
+5. Hip circles
+6. Bodyweight squats
+7. Walking lunges
 
-## Push
+#### Light Cardio
+1. Brisk walking
+2. Jogging in place
+3. Cycling at a low resistance
+4. Jump rope
+5. Step-ups
 
-1. Chest flies (machine or ropes any) 12x3
-2. Overhead Triceps extension 12x3
-3. Incline bench press 12x3
-4. Triceps push down with rod extension 12x3
-5. Low to high flies rope 12x3
-6. Triceps push down with rope extension 12x3
-7. Side raises 12x5
+#### Monday:  Upper Body Strength and Cardio
+- Warm-up: 5-10 minutes of light cardio
+- Strength Training: Focus on upper body exercises like push-ups, dumbbell presses, and rows. 3 sets of 10-12 reps for each exercise.
+- Cardio: 30-45 minutes of your choice (running, cycling, or elliptical).
+- Cool down and stretching: 10-15 minutes.
 
-## Pull
+#### Tuesday: Lower Body Strength and Cardio
+- Warm-up: 5-10 minutes of light cardio.
+- Strength Training: Concentrate on lower body exercises like squats, lunges, and leg curls. 3 sets of 10-12 reps for each exercise.
+- Cardio: 30-45 minutes.
+- Cool down and stretching: 10-15 minutes.
 
-1. Lat pull down 12x3
-2. Biceps curl 12x3
-3. Rowing 12x3
-4. Hammer curls 12x3
-5. Straight arm pull down 12x3
+#### Wednesday: Cardio and Core
+- Warm-up: 5-10 minutes of light cardio.
+- Core Exercises: Include planks, Russian twists, and bicycle crunches. 3 sets of 10-15 reps for each exercise.
+- Cardio: 30-45 minutes.
+- Cool down and stretching: 10-15 minutes.
 
-## Legs
+#### Thursday: Full Body Strength and Cardio
+- Warm-up: 5-10 minutes of light cardio.
+- Strength Training: Incorporate full-body exercises like kettlebell swings, burpees, and push presses. 3 sets of 10-12 reps for each exercise.
+- Cardio: 30-45 minutes.
+- Cool down and stretching: 10-15 minutes.
 
-1. Leg curls 12x3
-2. Leg extension 12x2
-3. Leg push down 12x4
-4. Calf raises 12x3
-5. Squats 12x2 optional
+#### Friday: Cardio and Active Recovery
+- Warm-up: 5-10 minutes of light cardio.
+- Active Recovery: Engage in yoga or light stretching to promote flexibility and recovery.
+- Cardio: 30-45 minutes of low-intensity, steady-state cardio.
+- Cool down and stretching: 10-15 minutes.
+
+#### Saturday: Cardio and HIIT
+- Warm-up: 5-10 minutes of light cardio.
+- High-Intensity Interval Training (HIIT): Perform exercises like high knees, mountain climbers, and jump squats in short bursts with brief rests in between. 3-4 sets of 20-30 seconds per exercise.
+- Cardio: 30-45 minutes.
+- Cool down and stretching: 10-15 minutes.
+
+#### Sunday: Rest Day
+- Take a well-deserved rest to allow your body to recover and prepare for the upcoming week.
