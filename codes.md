@@ -22,5 +22,29 @@ class Solution {
 problem 2
 
 ```java
+class RecentCounter {
+    List<Integer> pingTimings;
 
+    public RecentCounter() {
+        pingTimings = new ArrayList<>();
+    }
+
+    public int ping(int t) {
+        pingTimings.add(t);
+        return getAllLessThanTminus3000(t);
+    }
+
+    private int getAllLessThanTminus3000(int t) {
+        int t_ = Math.max(0, t - 3000);
+        int counter = 0;
+
+        for (int i = 0; i < pingTimings.size(); i++) {
+            if (pingTimings.get(i) >= t_) {
+                counter++;
+            }
+        }
+
+        return counter;
+    }
+}
 ```
